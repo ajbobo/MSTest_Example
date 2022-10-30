@@ -32,6 +32,7 @@ public class Vector3_Test
     [DataTestMethod]
     [DataRow(1, 1, 1, 2, 2, 2, 3, 3, 3)]
     [DataRow(1, 2, 3, 1, 2, 3, 2, 4, 6)]
+    [DataRow(1.1, 2.2, 3.3, 1.1, 2.2, 3.3, 2.2, 4.4, 6.6)]
     public void TestAdd(double x1, double y1, double z1,
                         double x2, double y2, double z2,
                         double ex, double ey, double ez)
