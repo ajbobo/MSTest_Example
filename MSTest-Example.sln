@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector3", "Vector3\Vector3.csproj", "{4D458516-8A96-4BC1-92D5-B6216704D0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector3_Console", "Vector3_Console\Vector3_Console.csproj", "{D327AADC-39EA-4B18-A2B5-70A16912CCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector3_Test", "Vector3_Test\Vector3_Test.csproj", "{506B4267-526C-4781-A3FB-F554CF6314B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D458516-8A96-4BC1-92D5-B6216704D0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D458516-8A96-4BC1-92D5-B6216704D0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D458516-8A96-4BC1-92D5-B6216704D0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D458516-8A96-4BC1-92D5-B6216704D0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D327AADC-39EA-4B18-A2B5-70A16912CCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D327AADC-39EA-4B18-A2B5-70A16912CCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D327AADC-39EA-4B18-A2B5-70A16912CCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D327AADC-39EA-4B18-A2B5-70A16912CCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506B4267-526C-4781-A3FB-F554CF6314B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506B4267-526C-4781-A3FB-F554CF6314B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506B4267-526C-4781-A3FB-F554CF6314B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506B4267-526C-4781-A3FB-F554CF6314B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
