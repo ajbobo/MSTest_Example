@@ -37,9 +37,7 @@ public class Vector3_Test
 
         Vector3 expected = new Vector3 { X = ex, Y = ey, Z = ez };
 
-        Assert.AreEqual(expected.X, res.X);
-        Assert.AreEqual(expected.Y, res.Y);
-        Assert.AreEqual(expected.Z, res.Z);
+        Assert.AreEqual<Vector3>(expected, res);
     }
 
     [TestMethod]
